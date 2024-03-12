@@ -5,6 +5,7 @@
 
 ![Cruz GitHub stats](https://github-redme-stats.vercel.app/api?username=dacruzfe&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dacruzfe&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -21,6 +22,7 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </div><br/>
+
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
