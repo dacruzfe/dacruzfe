@@ -1,5 +1,5 @@
 
-### Olá eu sou o Felipe Cruz 👋
+### I'm Felipe Cruz Sênior Software Developer. I worked as an IT Technician for 15 years 👋
 
 [![Blog](https://img.shields.io/website?label=MeuSharePoint.com&Style=for-the-badge&url=https://meusharepoint.blogspot.com/)](https://meusharepoint.blogspot.com)
 
@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dacruzfe&hide_progress=true)
 
-## Tecnologias que eu uso no meu dia
+## Technologies that I use in my daily life
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
@@ -24,7 +24,7 @@
 </div><br/>
 
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Passionate about technology, education and programming.
 
-## Contato:
+## Contact:
 felipecruz2606@gmail.com
