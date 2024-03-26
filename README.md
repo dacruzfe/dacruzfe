@@ -1,9 +1,13 @@
 
-### I'm Felipe Cruz Sênior Software Developer. I worked as an IT Technician for 15 years 👋
+# I'm Felipe Cruz Sênior Software Developer. I worked as an IT Technician for 15 years 👋 [![Blog](https://img.shields.io/website?label=MeuSharePoint.com&Style=for-the-badge&url=https://meusharepoint.blogspot.com/)](https://meusharepoint.blogspot.com)
 
-[![Blog](https://img.shields.io/website?label=MeuSharePoint.com&Style=for-the-badge&url=https://meusharepoint.blogspot.com/)](https://meusharepoint.blogspot.com)
-
-
+<div align="center">
+- Graduado em Análise e Desenvolvimento de Sistemas, com MBA em Gestão de Progetos e Engenharia de Software.
+- Especialista em Desenvolvimento de Software Backend e Frontend. Sou apaixonado por tecnologias e adoro aprender coisas novas.
+- Optei pela área de programação em 2009 atrás de conhecimentos e me apaixonei pela sensação de ter "o poder" de criar do zero e resolver problemas apenas utilizando Códigos.
+- Busco sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo, possibilitando atuar na área de Gestão de Projetos de Tecnologia e/ou Desenvolvedor de Software FullStack, com enfâse em C#, SharePoint e Power Platform.
+____________________________________________________________________________________________________________________
+  
 ### ⚡ Tecnologias que estudo e estudei durante minha jornada.
 
 #### Linguagens de Programação:
